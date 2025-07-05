@@ -1,45 +1,58 @@
-<h1 align="center">Hi 👋, I'm Tejas M</h1>
-<h3 align="center">Web Developer | AI Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm TEJAS M BHARADWAJ</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-
-- 🔭 I’m currently working on:  
-  Multi-disease brain detection using deep learning (Alzheimer's, Stroke, Tumor)
-
-- 🌱 I’m currently learning:  
-  Docker, Three.js, and advanced React techniques
-
-- 💼 Internship Experience:
-  - React & Java Developer at Prodigy InfoTech
-  - Full Stack Developer Intern at Codesight Global Solutions
-  - Research Intern at CIIRC (focused on remote sensing, urbanization & water bodies)
-
-- 📊 Projects include:
-  - 🧠 Brain Stroke & Alzheimer’s Detection
-  - 📄 Resume Analyzer with Job Matcher
-  - 📦 Flipkart Sales Analytics Dashboard using Power BI
-  - 🌤️ Weather App with live APIs
-  - 🗺️ Google Maps Location-based Service
-
-- 🧰 Tech Stack:
-  ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-
-- 📫 Reach me at:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
-  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your.email@gmail.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+🌱 I’m currently learning **Power BI** and **TensorFlow**  
+👯 I’m looking to collaborate on **AI Research**  
+💬 Ask me about **Machine Learning** & **Deep Learning**  
+📫 Reach me at: **tejasmb2003@gmail.com**  
+📄 Know about my experiences: [My Flipbook Resume](https://publuu.com/flip-book/702741/1562170)  
+⚡ Fun fact: *A rare blend of discipline and approachable energy, adaptable in both solo and team settings 🙂*
+
+---
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sudhanvahp)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sudhanva.100)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/basic/)  
+
+---
+
+## 🛠️ Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cpp)
+![Chart.js](https://img.shields.io/badge/-Chart.js-black?style=flat-square&logo=chartdotjs)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasmb03&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmb03&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanva100&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanva100&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -47,13 +60,5 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejasmb03&theme=radical&margin-w=15&no-frame=true" />
-</p>
-
----
-
-## 🔥 My Contributions
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tejasmb03&theme=github" alt="contribution graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhanva100&theme=radical&row=1" />
 </p>
