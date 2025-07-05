@@ -7,18 +7,19 @@
 
 ---
 
-🌱 I’m currently learning **Power BI** and **TensorFlow**  
-👯 I’m looking to collaborate on **AI Research**  
+🌱 I’m currently learning **Power BI** and **Mobile App Development**  
+👯 I’m looking to collaborate on **IT Domain**  
 💬 Ask me about **Machine Learning**, **Deep Learning**, **Full Stack Development**, **Frontend Development**, **Backend Development** & **Project Management**  
 📫 Reach me at: **tejasmb2003@gmail.com**  
 📄 Know about my experiences: [My_Portfolio](https://tejasmb03portfolio.netlify.app/)  
-⚡ Fun fact: *A rare blend of discipline and approachable energy, adaptable in both solo and team settings 🙂*
+⚡ Fun fact: *Sometimes I refactor code just because I don’t like how it feels. Yes, feelings matter.🙂*
 
 ---
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tejas-m-bharadwaj-17103b27a/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tejas-m-bharadwaj-17103b27a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejasmb2003@gmail.com)
 
 ---
 
